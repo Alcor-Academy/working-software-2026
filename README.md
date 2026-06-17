@@ -93,7 +93,7 @@ The `solution-done` branch contains the reference implementation if you want to 
 
 Depending on the number of participants with Claude Code available, the session runs as a **mob** or as a **fishbowl mob**.
 
-![Fishbowl Mob setup](docs/images/fishbowl-mob.png)
+![Fishbowl Mob setup](fishbowl-mob.png)
 
 In a **fishbowl mob**, a small active group (Driver, Navigator, mob members) works at the screen while the rest of the audience observes. Anyone from the audience can volunteer to join the mob at the next role rotation. The facilitator keeps time and guides the process.
 
